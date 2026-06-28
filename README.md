@@ -5,6 +5,19 @@ Projet pluridisciplinaire ISEN2 (2025/2026) — groupe **Synthé**.
 
 **Plateforme :** Teensy 4.1 + Teensy Audio Adapter Board Rev D (codec SGTL5000).
 
+## Membres du groupe
+
+- **Mathieu Gattone** — chef de projet
+- **Louis Laurent** — développeur (logiciel / DSP)
+- **Doryan Le Coadou** — conception mécanique / CAO, responsable Fablab
+- **Lucas Desfougeres** — conception électronique, responsable Fablab
+
+Encadrant : Amaury Auguste — Promotion ISEN2, année 2025/2026.
+
+## Démonstration vidéo
+
+▶️ https://youtu.be/DSE_qQ8myZg
+
 ---
 
 ## Chaîne de traitement du son
